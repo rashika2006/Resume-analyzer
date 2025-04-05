@@ -81,7 +81,6 @@ Performance summary of the trained model:
  DATA SCIENCE     0.95      0.92      0.94        25
          HR       0.85      0.88      0.86        18
         ...
-```
 
 ---
 
