@@ -86,7 +86,7 @@ Performance summary of the trained model:
 ---
 
 ## 📦 Requirements
-All required packages are listed in `requirements.txt`:
+All required packages are listed:
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
 - `nltk`, `wordcloud`
@@ -94,15 +94,10 @@ All required packages are listed in `requirements.txt`:
 
 ---
 
-## 🤝 Contributions
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
 ## 📬 Contact
 For questions or collaboration:
 - 📧 Email: rashikajainlko@gmail.com
-- 🌐 GitHub: https://github.com/rashika2006
+- 🌐 GitHub:https://github.com/r20j
 
 ---
 
@@ -111,5 +106,5 @@ This project is licensed under MIT License
 
 ---
 
-> ⭐ **If you found this helpful, don’t forget to star the repo and share it!**
+
 
