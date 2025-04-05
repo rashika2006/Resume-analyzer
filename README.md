@@ -62,15 +62,15 @@ Visual breakdown of the number of resumes per job category:
 
 ### 📝 Word Count Distribution
 Histogram of the number of words in resumes:
-![Word Count Plot](assets/wordcount_hist.png)
+
 
 ### ☁️ Word Cloud of Frequent Words
 Visual representation of most used keywords:
-![Word Cloud](assets/wordcloud.png)
+
 
 ### 🔡 Top 50 Frequent Words
 Bar chart showing most common meaningful words across resumes:
-![Top Words Bar Plot](assets/top_words_bar.png)
+
 
 ### 📉 Classification Report (Sample Output)
 Performance summary of the trained model:
