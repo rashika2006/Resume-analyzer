@@ -74,13 +74,27 @@ Bar chart showing most common meaningful words across resumes:
 
 ### 📉 Classification Report (Sample Output)
 Performance summary of the trained model:
-```
-              precision    recall  f1-score   support
+precision    recall  f1-score   support
 
       DESIGN       0.88      0.90      0.89        20
  DATA SCIENCE     0.95      0.92      0.94        25
          HR       0.85      0.88      0.86        18
         ...
+
+
+---
+
+## 📦 Requirements
+All required packages are listed in requirements.txt:
+- pandas, numpy
+- matplotlib, seaborn
+- nltk, wordcloud
+- scikit-learn
+
+---
+
+## 🤝 Contributions
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
