@@ -57,7 +57,7 @@ Get insights into your data and model using the following visualizations:
 
 ### 🎯 Resume Category Distribution
 Visual breakdown of the number of resumes per job category:
-![Category Plot](assets/category_plot.png)
+![Category Distribution](assets/resume_category_distribution.png)
 
 ### 📝 Word Count Distribution
 Histogram of the number of words in resumes:
