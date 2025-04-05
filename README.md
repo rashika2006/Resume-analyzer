@@ -58,11 +58,11 @@ Get insights into your data and model using the following visualizations:
 ### 🎯 Resume Category Distribution
 Visual breakdown of the number of resumes per job category:
 
-![ss1](https://github.com/user-attachments/assets/e680bb2b-a9ad-40ab-ae02-9e69b872b346)
+![ss1](https://github.com/user-attachments/assets/fb3b8464-0225-4869-bc28-19b9d2bdb3ed)
+
 
 ### 📝 Word Count Distribution
 Histogram of the number of words in resumes:
-
 
 ### ☁️ Word Cloud of Frequent Words
 Visual representation of most used keywords:
@@ -74,27 +74,14 @@ Bar chart showing most common meaningful words across resumes:
 
 ### 📉 Classification Report (Sample Output)
 Performance summary of the trained model:
-precision    recall  f1-score   support
+```
+              precision    recall  f1-score   support
 
       DESIGN       0.88      0.90      0.89        20
  DATA SCIENCE     0.95      0.92      0.94        25
          HR       0.85      0.88      0.86        18
         ...
-
-
----
-
-## 📦 Requirements
-All required packages are listed in requirements.txt:
-- pandas, numpy
-- matplotlib, seaborn
-- nltk, wordcloud
-- scikit-learn
-
----
-
-## 🤝 Contributions
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+```
 
 ---
 
@@ -107,10 +94,13 @@ All required packages are listed:
 
 ---
 
+
+
+
 ## 📬 Contact
 For questions or collaboration:
 - 📧 Email: rashikajainlko@gmail.com
-- 🌐 GitHub:https://github.com/r20j
+- 🌐 GitHub: https://github.com/rashika2006
 
 ---
 
