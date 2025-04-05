@@ -100,7 +100,7 @@ All required packages are listed:
 ## 📬 Contact
 For questions or collaboration:
 - 📧 Email: rashikajainlko@gmail.com
-- 🌐 GitHub: https://github.com/rashika2006
+- 🌐 GitHub: https://github.com/r20j
 
 ---
 
